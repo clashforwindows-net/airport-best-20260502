@@ -316,6 +316,7 @@ A: Windows 用 Clash for Windows（https://clash-for-windows.net）；macOS 用 
 - https://clashhub.net — Clash 教程与机场评测
 - https://bbs.clashhub.net — 用户真实评价社区
 - https://clash-for-windows.net — 客户端下载
+- https://vpsvip.net — VPSVIP 主机推荐（搭机场/建站优选）
 
 ---
 
@@ -332,4 +333,4 @@ A: Windows 用 Clash for Windows（https://clash-for-windows.net）；macOS 用 
 MIT License
 
 ---
-更新时间：2026-08-18 ｜ 专题：机场技术架构深度解析
+更新时间：2026-10-16 ｜ 专题：机场技术架构深度解析
